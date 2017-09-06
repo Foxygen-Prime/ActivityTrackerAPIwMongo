@@ -1,0 +1,26 @@
+{
+  "name": "activitiespostgres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "express-mustache": "^1.0.3",
+    "mongoose": "^4.10.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Foxygen-Prime/ActivityTrackerAPIwMongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Foxygen-Prime/ActivityTrackerAPIwMongo/issues"
+  },
+  "homepage": "https://github.com/Foxygen-Prime/ActivityTrackerAPIwMongo#readme"
+}

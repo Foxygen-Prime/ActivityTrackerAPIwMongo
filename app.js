@@ -1,6 +1,6 @@
 const express = require('express');
 const mongoose = require('mongoose');
-const personalActivityDB = require('./Models/schema.js')
+const personalActivityDB = require('./Models/schema.js');
 const bodyParser = require('body-parser');
 mongoose.Promise = require('bluebird');
 mongoose.connect('mongodb://localhost:27017/activityTracker');
